@@ -25,7 +25,7 @@ Projekti on toteutettu Python-ohjelmointikielellä, ja sen tekemiseen on hyödyn
 
 Projekti koostuu seuraavista osista: 
 
-* loppuraportti.ipynb, joka sisältää projektin loppuraportin
-* esikasittely_mallinnus.ipynb, joka sisältää yksityiskohtaisemman kuvauksen projektin esikäsittely- ja mallinnusvaiheista
-* taksit.csv, joka sisältää esikäsitellyn aineiston
+* [loppuraportti.ipynb](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/loppuraportti.ipynb), joka sisältää projektin loppuraportin
+* [esikasittely_mallinnus.ipynb](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/esikasittely_mallinnus.ipynb), joka sisältää yksityiskohtaisemman kuvauksen projektin esikäsittely- ja mallinnusvaiheista
+* [taksit.csv](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/taksit.csv), joka sisältää esikäsitellyn aineiston
 
