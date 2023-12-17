@@ -25,7 +25,7 @@ Projekti on toteutettu Python-ohjelmointikielellä, ja sen tekemiseen on hyödyn
 
 Projekti koostuu seuraavista osista: 
 
-* Loppuraportti   
-* taksit.ipynb 
-* taksit.csv 
+* loppuraportti.ipynb, joka sisältää projektin loppuraportin
+* esikasittely_mallinnus.ipynb, joka sisältää yksityiskohtaisemman kuvauksen projektin esikäsittely- ja mallinnusvaiheista
+* taksit.csv, joka sisältää esikäsitellyn aineiston
 
