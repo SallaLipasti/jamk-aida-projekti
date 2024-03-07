@@ -25,9 +25,9 @@ Projekti on toteutettu Python-ohjelmointikielellä, ja sen tekemiseen on hyödyn
 
 Projekti koostuu seuraavista osista: 
 
-* [loppuraportti.ipynb](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/loppuraportti.ipynb), joka sisältää projektin loppuraportin
-* [esikasittely_mallinnus.ipynb](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/esikasittely_mallinnus.ipynb), joka sisältää yksityiskohtaisemman kuvauksen projektin esikäsittely- ja mallinnusvaiheista
-* [taksit.csv](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/taksit.csv), joka sisältää esikäsitellyn aineiston
+* [loppuraportti.ipynb](https://github.com/SallaLipasti/jamk-aida-projekti/blob/main/loppuraportti.ipynb), joka sisältää projektin loppuraportin
+* [esikasittely_mallinnus.ipynb](https://github.com/SallaLipasti/jamk-aida-projekti/blob/main/esikasittely_mallinnus.ipynb), joka sisältää yksityiskohtaisemman kuvauksen projektin esikäsittely- ja mallinnusvaiheista
+* [taksit.csv](https://github.com/SallaLipasti/jamk-aida-projekti/blob/main/taksit.csv), joka sisältää esikäsitellyn aineiston
 
   **HUOM!** Jupyter-notebookien sivunsisäiset linkit [eivät valitettavasti toimi GitHubissa](https://www.reddit.com/r/github/comments/9z6fjj/anchor_links_on_githubrendered_jupyter_notebooks/?rdt=40310), mutta toimivat moitteettomasti JupyterLabissa ja GitLabissa.
 
