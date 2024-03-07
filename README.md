@@ -5,7 +5,7 @@ Jyväskylän ammattikorkeakoulu
 AI / DA -Projekti (TTC8070)    
 Syksy 2023 
 
-Tämä projektityö kuuluu Jyväskylän ammattikorkeakoulun opintojaksoon [AI / DA -Projekti (TTC8070)](https://opetussuunnitelmat.peppi.jamk.fi/fi/TTV2020SS/course_unit/TTC8070), joka on osa opintokokonaisuutta [Data-analytiikan erikoistumismoduuli 2](https://www.jamk.fi/fi/Hae-opiskelemaan/osaamiskokonaisuus/opi-hyodyntamaan-data-analytiikkaa-ja-tekoalya). 
+Tämä projektityö kuuluu Jyväskylän ammattikorkeakoulun opintojaksoon AI / DA -Projekti (TTC8070), joka on osa opintokokonaisuutta [Data-analytiikan erikoistumismoduuli 2](https://www.jamk.fi/fi/Hae-opiskelemaan/osaamiskokonaisuus/opi-hyodyntamaan-data-analytiikkaa-ja-tekoalya). 
 
 ## Projektin kuvaus    
 
