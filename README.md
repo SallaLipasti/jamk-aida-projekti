@@ -29,3 +29,5 @@ Projekti koostuu seuraavista osista:
 * [esikasittely_mallinnus.ipynb](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/esikasittely_mallinnus.ipynb), joka sisältää yksityiskohtaisemman kuvauksen projektin esikäsittely- ja mallinnusvaiheista
 * [taksit.csv](https://gitlab.labranet.jamk.fi/AD7732/aida-projekti/-/blob/main/taksit.csv), joka sisältää esikäsitellyn aineiston
 
+  **HUOM!** Jupyter-notebookien sivunsisäiset linkit [eivät valitettavasti toimi GitHubissa](https://www.reddit.com/r/github/comments/9z6fjj/anchor_links_on_githubrendered_jupyter_notebooks/?rdt=40310), mutta toimivat moitteettomasti JupyterLabissa ja GitLabissa.
+
